@@ -1,0 +1,9 @@
+{
+  "name": "learn-by-teaching",
+  "version": "0.1.2",
+  "description": "The person teaches a concept, and the assistant plays the learner. Its questions expose the gaps, and \"class dismissed\" brings an honest debrief.",
+  "author": {
+    "name": "Christopher Lopes"
+  },
+  "license": "MIT"
+}

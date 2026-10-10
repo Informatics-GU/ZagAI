@@ -1,0 +1,32 @@
+{
+  "name": "zagai",
+  "owner": {
+    "name": "IIAT"
+  },
+  "description": "A vetted collection of AI instructions, each one tested, for work with AI that serves the person.",
+  "metadata": {
+    "version": "0.1.2"
+  },
+  "plugins": [
+    {
+      "name": "care",
+      "source": "./plugins/care",
+      "description": "Practicing Discernment Alongside AI — Until It Becomes Second Nature"
+    },
+    {
+      "name": "energy-footprint",
+      "source": "./plugins/energy-footprint",
+      "description": "Stays quiet on small work. On a large job it says what makes it expensive, offers a smaller version, and asks first."
+    },
+    {
+      "name": "learn-by-teaching",
+      "source": "./plugins/learn-by-teaching",
+      "description": "The person teaches a concept, and the assistant plays the learner. Its questions expose the gaps, and \"class dismissed\" brings an honest debrief."
+    },
+    {
+      "name": "socratic-student",
+      "source": "./plugins/socratic-student",
+      "description": "Draws out what a student already knows, and does not hand over the work."
+    }
+  ]
+}

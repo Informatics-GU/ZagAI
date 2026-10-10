@@ -1,0 +1,20 @@
+{
+  "name": "energy-footprint",
+  "version": "0.1.2",
+  "description": "Stays quiet on small work. On a large job it says what makes it expensive, offers a smaller version, and asks first.",
+  "author": {
+    "name": "Christopher Lopes"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Energy Footprint",
+    "shortDescription": "Asks before large jobs",
+    "longDescription": "Stays quiet on small work. On a large job it says what makes it expensive, offers a smaller version, and asks first.\n\nThis plugin was developed by Christopher Lopes as part of an educational technology initiative within the Institute for Informatics and Applied Technology at Gonzaga University.\n\nIt is shared publicly so that students, faculty, and others across different ChatGPT workspaces and institutions can use it.\n\nThe plugin is published and maintained by its developer. Its publication does not imply official university endorsement.",
+    "developerName": "Christopher Lopes",
+    "category": "Education",
+    "capabilities": [],
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

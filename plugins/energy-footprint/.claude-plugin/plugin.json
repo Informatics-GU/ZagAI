@@ -1,0 +1,9 @@
+{
+  "name": "energy-footprint",
+  "version": "0.1.2",
+  "description": "Stays quiet on small work. On a large job it says what makes it expensive, offers a smaller version, and asks first.",
+  "author": {
+    "name": "Christopher Lopes"
+  },
+  "license": "MIT"
+}

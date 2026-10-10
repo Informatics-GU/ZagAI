@@ -1,0 +1,9 @@
+{
+  "name": "socratic-student",
+  "version": "0.1.2",
+  "description": "Draws out what a student already knows, and does not hand over the work.",
+  "author": {
+    "name": "Christopher Lopes"
+  },
+  "license": "MIT"
+}
