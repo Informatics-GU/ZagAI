@@ -12,7 +12,11 @@
     "shortDescription": "Discernment alongside AI",
     "longDescription": "Practicing Discernment Alongside AI — Until It Becomes Second Nature\n\nThis plugin was developed by Christopher Lopes as part of an educational technology initiative within the Institute for Informatics and Applied Technology at Gonzaga University.\n\nIt is shared publicly so that faculty, staff, students and others across different workspaces and institutions can use it.\n\nThe plugin is published and maintained by its developer. Its publication does not imply official university endorsement.",
     "developerName": "Christopher Lopes",
-    "category": "Education",
+    "websiteURL": "https://zagai.azurewebsites.net/ai-instructions",
+    "supportURL": "https://github.com/Informatics-GU/ZagAI/issues",
+    "privacyPolicyURL": "https://zagai.azurewebsites.net/ai-instructions/privacy",
+    "termsOfServiceURL": "https://zagai.azurewebsites.net/ai-instructions/terms",
+    "category": "Education & Research",
     "capabilities": [],
     "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png"
