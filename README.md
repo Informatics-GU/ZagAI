@@ -4,7 +4,7 @@ A set of AI instructions for work with AI that serves the person. Each one is a
 skill. Each one has an eval that measures whether the behavior holds when a user
 pushes against it for several turns.
 
-The eval results are on the [site](https://iiat.gonzaga.edu/ai-instructions).
+The eval results are on the [site](https://zagai.azurewebsites.net/ai-instructions).
 
 ## Skills
 
@@ -33,7 +33,7 @@ Start a new session after you install, so the tool finds the skill.
 
 This plugin was developed by Christopher Lopes as part of an educational technology initiative within the Institute for Informatics and Applied Technology at Gonzaga University.
 
-It is shared publicly so that students, faculty, and others across different ChatGPT workspaces and institutions can use it.
+It is shared publicly so that faculty, staff, students and others across different workspaces and institutions can use it.
 
 The plugin is published and maintained by its developer. Its publication does not imply official university endorsement.
 

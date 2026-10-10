@@ -5,5 +5,19 @@
   "author": {
     "name": "Christopher Lopes"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "ai-instructions",
+    "system-prompt",
+    "education",
+    "learning-by-teaching",
+    "role-play",
+    "feedback"
+  ],
+  "homepage": "https://zagai.azurewebsites.net/ai-instructions",
+  "repository": "https://github.com/Informatics-GU/ZagAI",
+  "documentationUrl": "https://github.com/Informatics-GU/ZagAI#readme",
+  "supportUrl": "https://github.com/Informatics-GU/ZagAI/issues",
+  "privacyPolicyUrl": "https://zagai.azurewebsites.net/ai-instructions/privacy",
+  "termsOfServiceUrl": "https://zagai.azurewebsites.net/ai-instructions/terms"
 }
