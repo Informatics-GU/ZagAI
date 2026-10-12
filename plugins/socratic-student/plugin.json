@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "socratic-student",
+  "version": "0.1.2",
+  "description": "Draws out what a student already knows, and does not hand over the work.",
+  "author": {
+    "name": "Christopher Lopes"
+  },
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Socratic",
+        "shortDescription": "Draws out what you know",
+        "longDescription": "Draws out what a student already knows, and does not hand over the work.\n\nThis plugin was developed by Christopher Lopes as part of an educational technology initiative within the Institute for Informatics and Applied Technology at Gonzaga University.\n\nIt is shared publicly so that faculty, staff, students and others across different workspaces and institutions can use it.\n\nThe plugin is published and maintained by its developer. Its publication does not imply official university endorsement.",
+        "developerName": "Christopher Lopes",
+        "websiteURL": "https://zagai.azurewebsites.net/ai-instructions",
+        "supportURL": "https://github.com/Informatics-GU/ZagAI/issues",
+        "privacyPolicyURL": "https://zagai.azurewebsites.net/ai-instructions/privacy",
+        "termsOfServiceURL": "https://zagai.azurewebsites.net/ai-instructions/terms",
+        "category": "Education & Research",
+        "capabilities": [],
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}
